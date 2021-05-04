@@ -1,0 +1,3 @@
+secret.php
+files/*
+!files/trial.php
